@@ -47,7 +47,7 @@ const CompletedTaskCard = async () => {
         className="border-green-300 bg-green-50 drop-shadow-2xl shadow-teal-300 hover:bg-green-100 font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out"
       >
         <div className=""></div>
-        <CardTitle className="m-3 text-green-900 text-lg">
+        <CardTitle className=" text-green-900 text-lg text-center">
           {" "}
           Waste Details
         </CardTitle>
